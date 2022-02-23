@@ -1,0 +1,450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact discovery of the mystery of iniquity as it is now in practice amongst the Jesuits and other their emissaries with a particular account of their antichristian and devillish policy / composed in the Italian tongue by one of the Romish religion ; translated into English, and now newly published by Titus Oates.</title>
+            <title>Instruttione a' prencipi della maniera con la quale si governano li padri giesuiti. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38919</idno>
+            <idno type="STC">Wing E3644A</idno>
+            <idno type="STC">ESTC R16706</idno>
+            <idno type="EEBO-CITATION">13033257</idno>
+            <idno type="OCLC">ocm 13033257</idno>
+            <idno type="VID">96803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact discovery of the mystery of iniquity as it is now in practice amongst the Jesuits and other their emissaries with a particular account of their antichristian and devillish policy / composed in the Italian tongue by one of the Romish religion ; translated into English, and now newly published by Titus Oates.</title>
+                  <title>Instruttione a' prencipi della maniera con la quale si governano li padri giesuiti. English.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Reprinted at Dublin :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original edition published in 1617 under title: Instruttione a' prencipi della maniera con la quale si governano li padri giesuiti, fatta da persona religiosa e totalmente spassionata.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96803:1"/>
+            <pb facs="tcp:96803:1" rendition="simple:additions"/>
+            <p> AN EXACT DISCOVERY OF THE Myſtery of Iniquity As it is now in practice amongſt the JESUITS And other their EMISSARIES.</p>
+            <p>With a particular ACCOUNT of their Antichriſtian and Devilliſh POLICY.</p>
+            <p>
+               <hi>Compoſed in the</hi> Italian Tongue <hi>by one of the</hi> Romiſh Religion, <hi>Tranſlated into</hi> Engliſh, <hi>and now newly publiſhed by</hi> Titus Oates D. D.</p>
+            <p>
+               <hi>John</hi> 8.44. Ye are of your Father the Devil, and the Inſts of your Father ye will do; he was a Murderer from the beginning, and abode not in the Truth; becauſe there is no Truth in him.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>Reprinted at <hi>Dublin,</hi> M. DC. LXXIX.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:96803:2"/>
+            <p> Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>4 <hi>Febr.</hi> 1678/9.</date>
+               </dateline>
+               <signed>RO. LESTRANGE.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96803:2"/>
+            <head>To the Right Honourable ANTHONY EARL of SHAFTSBURY, Baron <hi>ASHLY</hi> of <hi>WIMBO<g ref="char:V">Ʋ</g>RNE</hi> St. <hi>GILES,</hi> and Lord <hi>COOPER</hi> of <hi>PAWLET &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>SINCE it hath pleaſed GOD once more in mercy to remember this poor Nation; for diſcovering to it th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe unheard of Villanies and unparallel<g ref="char:EOLhyphen"/>led Wickedneis that were coutriving againſt its Peace and Religion; I thought it my Duty to let my Countrey to have a Taſt of the Nature of that ſubtil Enemy ſhe hath to deal withal, who envyeth her Priviledges and Hap<g ref="char:EOLhyphen"/>pineſs; and your Lordſhip appearing to ſtand by the Evidence with all Can<g ref="char:EOLhyphen"/>dor becoming a Perſon of your Worth and Dignity, in order to a full De<g ref="char:EOLhyphen"/>tection of the Frauds and Deſigns of theſe Vermine, I thought it my Duty to pray your Patronage and Protection of this little Treatiſe which I now publiſh. I have nothing, my Lord, to plead for me, but onely the innocency of my intention, and queſtion not but your Lordſhip will appear, as you have ever done, to oppoſe this growing intereſt. And truly (my Lord) this Nation hath reaſon to bleſs the Moſt High God for your Care for her Peace and Eſtabliſhment in the Profeſſion of that Religion; which doth oblige all Subjects to all Loyalty to their Prince, and to live in Peace and Love one with another. This Treatiſe ſpake formerly the <hi>Italian Tongue,</hi> but now it is made to ſpeak <hi>Engliſh;</hi> and in it I find ſuch an Account of the Nations adverſaries, which to my own knowledge they deſerve, If it be faulty, it is be<g ref="char:EOLhyphen"/>cauſe it is ſomewhat too ſhort of them, Now (my Lord) I humbly conceive your Lordſhip will pardon that, becauſe it was all the Author (who was of the Romiſh Religion) could ſay at that time when he firſt publiſht it. This I hope your Honour will accept of thus preſented, as I found it, without the leaſt Alteration. I ſhall ſubmit all to your Lordſhips Candor; therefore heart<g ref="char:EOLhyphen"/>tily praying for your Lordſhips Proſperity, I humbly take leave to ſubſcribe my ſelfe.</p>
+            <closer>
+               <dateline>
+                  <date>28 Febr. 1679.</date>
+               </dateline>
+               <signed>Your Lordſhip: moſt Humble and moſt Obedient Servant TIT<g ref="char:V">Ʋ</g>SOATES</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96803:3"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THis inſuing Diſcourſe I have peruſed, and find it to be an Exact Cha<g ref="char:EOLhyphen"/>racter of an Old Jeſuited Jeſuit; the <hi>Contents</hi> of it was their <hi>Pra<g ref="char:EOLhyphen"/>ctice</hi> whilſt I converſed with them; and therefore I am inclined to tell the World as much <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeeing theſe times in which we live, require that every true <hi>English</hi> man &amp; <hi>Proteſtant,</hi> do underſtand them: To this very end, that they may deteſt all ſuch practices, and proteſt againſt them. And whereas they have en<g ref="char:EOLhyphen"/>deavoured to deceive the ſimple hearted of this Nation, by fair protences to the propagation of <hi>Religion;</hi> and by ſpecious ſhews of zeal for the <hi>Salvation of Souls,</hi> our Countreymen may plainly ſee it is not <g ref="char:V">Ʋ</g>s, but Ours they ſeek; if it be <g ref="char:V">Ʋ</g>s: it is to deſtroy us, and not to ſave us; witneſs their Villainous Pra<g ref="char:EOLhyphen"/>stices throughout all <hi>Chriſtendom,</hi> and eſpecially in this our <hi>Country</hi> ever ſince the <hi>Reformation of the Church of God</hi> here with us. <hi>Reader,</hi> this is no fain<g ref="char:EOLhyphen"/>ed thing, the <hi>Original Author</hi> was an <hi>Italian,</hi> and no doubt but of the <hi>Com<g ref="char:EOLhyphen"/>munion</hi> of that <hi>Abominable VVhore</hi> the <hi>Mother of all Harlots;</hi> and there<g ref="char:EOLhyphen"/>fore we may eaſily be induced to believe the <hi>Contenrs</hi> thereof: for certainly had not their Practices been notoriouſly known even to thoſe of their own <hi>Communi<g ref="char:EOLhyphen"/>on,</hi> this Author could not have dad the face to have publiſht this <hi>Treatiſe</hi> in his own <hi>Countrey,</hi> where <hi>Popiſh Religion</hi> is generally practiſed &amp; profeſſed by eve<g ref="char:EOLhyphen"/>ry man. <hi>I</hi> tellthee, <hi>Reader,</hi> when is pleaſeth God to give me a little reſt from this weighty affair I have now in hand, <hi>I</hi> will give the people of <hi>England</hi> ſuch an accunt of the Villanies of theſe <hi>Jeſuits,</hi> as will I hope make them and their Vota<g ref="char:EOLhyphen"/>ries to be an abomination to every ſober and judicious <hi>Proteſtant,</hi> and even al<g ref="char:EOLhyphen"/>ſo to thoſe of their own <hi>perſwaſion,</hi> I am confident that the Eyes of the <hi>Nati<g ref="char:EOLhyphen"/>on</hi> are open to ſee their baſe <hi>Contrivances</hi> and <hi>Plottings</hi> againſt the <hi>King, Kingdom,</hi> and <hi>Proteſtant Religion;</hi> and by this little Scheme we may ſee what would be done, were they Lords over us. And as I commend this <hi>Treatiſe</hi> to thy ſerious conſideration <hi>(Dear Reader)</hi> ſo I muſt alſo recommend to thee a piece lately ſet forth, intituled, <hi>The Heart and its right Sovereign, And</hi> Rome <hi>no Mother Church to</hi> England; <hi>in which the Nullity of</hi> Rome's <hi>Church &amp; Ordination is proved:</hi> By that Judi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious &amp; Rerverend Divine <hi>Thomas Jones</hi> of <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veſtry</hi> in the County of <hi>Salop;</hi> and ſold by <hi>Peter Shirly</hi> under St. <hi>Dun<g ref="char:EOLhyphen"/>ſtans</hi> Church in <hi>Fleet-ſtreet.</hi> Both that and this I recommend to thee, to give the <hi>Nation</hi> ſome ſatisfaction, till God give me oppertunity to do my <hi>Countrey</hi> that Service as to publiſh my whole <hi>Narrative.</hi> I ſhall ſay no more, but beg of God for a <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſing on all our Hearty endeavours after a more full <hi>Diſcovery of this Myſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of Iniquity</hi>: and ſo Farewel,</p>
+            <closer>
+               <signed>The B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>her in C<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> TITUS OA<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb n="5" facs="tcp:96803:3" rendition="simple:additions"/>
+            <head>An exact Diſcovery of the <hi>Myſtery of Iniquity,</hi> as it is now in Practice amongſt the <hi>Jeſuits,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Religious Order of the <hi>Jeſuits</hi> was at the firſt planted in the Vineyard of Chriſt, as a Tree which ſhould produce an antidote againſt the poyſon of Hereſie, and ſuch bloſſoms of Chriſtian and religious works, a by the ſwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t favour of them ſinners might be conſtrained to bid adi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the corrupti<g ref="char:EOLhyphen"/>on of ſin, and to proſecute the ſweet ſmell of Repentance; we n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed no clea<g ref="char:EOLhyphen"/>rer d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>monſtration than the Laws and Orders on the which th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s plant was grounded, by the firſt Founder thereof Father <hi>Ignati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> And ſurely, ſo long as by thoſe firſt Fathers that gave it life, it was cheriſhed with the dew of charity, and cultivated conformable to the invention of the Planter: it brought forth two <note place="margin">
+                  <hi>This</hi> Exordium <hi>will make you know that the Author was a Papiſt.</hi>
+               </note> branches, the one of love towards God, the other towards their Neighbour. In ſo much that it was a worder to conſide the plenty of Fruits which it brought forth in the excellent Education of chil<g ref="char:EOLhyphen"/>dren, the ſavi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of ſouls, and the increaſe of the Catholick Faith, But the Devil, who makes uſe of a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good inventions, but as a w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et-ſtone, grew as eager and cunning to deſtroy this Work and enterprize, as the other to pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mote its and took oc<g ref="char:EOLhyphen"/>caſion, even from the greatneſs it ſelf of his Religious Order, and from that admirable progreſs which in ſmall time it had made, to pervert the firſt inſtitution of it, with an ar<g ref="char:EOLhyphen"/>tificial ſubtilty; inſtead of thoſe two firſt branches of charity, now utterly d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied up, he hath ingra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted two other; the one of ſelf-love and the other of profit: from which the Chriſtian Republick receives ſuch damage, that haply a greater cannot be imagined, as I am now about to demonſtrate in this D<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>co<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe. In the which, I proteſt before God, I have no mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion either o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> intereſt or paſſion, but an innocent zeal of the publick Good, for the which I do aſſure my ſelf I was born; and that Princes knowing their art fice, may prevent them by opportune remedies.</p>
+            <p>Now weare to know that the Religious Orders of theſe Fathers the Jeſuits being en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>ged, eſpecially by the education of Children (of which there is neither City nor Kingdom but hath need was even from the begi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing there <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (by very ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) much deſired, and by divers Princes ſo ſavoured, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in few years it diffuſed it ſelf, as far as ot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Orders had done in many Hundreds. This Greatneſs, which almoſt always induceth into men; minds a change of Cuſtom, raiſed up in the He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of Father <hi>Ignatius,</hi> ſuch a love towards their Society, that eſteeming that more profitable unto the Church of God, and more helpful in the Reformation of the world, than all other Orders; they concluded among them<g ref="char:EOLhyphen"/>ſelves to endeavour with all art and induſtry to give increaſe to it; and in that to give growth to the Cauſe of Chriſt, the Good of the Church; nay (to uſe their own word) to the only patr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of Ch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt.</p>
+            <p>And here I <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſubtil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>Ariſtotle</hi> to diſcern, and the eloquence of <hi>Cicere,</hi> to expreſs thoſe mervellous means (a thing which for the novelty of it, to many ſeemeth <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) by which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe Fathers ſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l increaſe to their Soc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it ſhal be ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<g ref="char:EOLhyphen"/>ficient for me to p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cut only ſome few things, leaving a large Room for other mens judgments, to a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e up a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rm of what <hi>Idea</hi> tthemſelves ſhall think fitteſt, Y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I ſhall not
+<pb n="6" facs="tcp:96803:4"/> omit to propound ſome few Heads, with which I intend to ſerve the Reader for the ground of this Diſcourſe.</p>
+            <p>And Firſt, Theſe Fathers, the Jeſuits, thought it was not ſufficient to promote their Society to that pitch of Greatneſs to the which they aſpired, only by Teaching, Preach<g ref="char:EOLhyphen"/>ing, or Adminiſtring the moſt Holy Sacraments, with other like Religious Exerciſes; becauſe though from the Beginning (as I ſaid) they were kindly imbraced by many peo<g ref="char:EOLhyphen"/>ple, yet in pro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs of time they perceived, that either for ill ſatisfaction, or ſome other occaſion, whatever it was; the affection of many grew cold towards them: and therefore doubting leaſt their Growth ſhould end with their infancy, they invented two other means to enlarge their Greatneſs.</p>
+            <p>The Firſt, was to work in the minds of Princes, and conſequently of as many others as they could, a baſe opinion of all other Religious Societies; diſcovering their imperfecti<g ref="char:EOLhyphen"/>ons, and after a cunning manner, from other depreſſions, raiſing their own Greatneſs; and by this means they impatronized themſelves of many Monaſteries, Abbeys, and other main poſſeſſions; depriving thoſe religious perſons that firſt enjoyed them, both of them, and of all that belonged to them.</p>
+            <p>The ſecond Means, was to thruſt themſelves into Affairs of State, gaining intereſt with the greateſt part of Chriſtian Princes; and that with as ſubtil and artificious a device as ever yet the World brought forth<hi>:</hi> into which, as it is very hard to penctrate, ſo it is (almoſt) impoſſible, ſufficiently to explain it.</p>
+            <p>There refides continually in <hi>Rome</hi> the <hi>Father General,</hi> to whom all the reſt render moſt ex<g ref="char:EOLhyphen"/>act Obedience<hi>:</hi> and there is Choice made of ſome other Fathers, who from the Aſſiſtance they always give him, are called his Aſſiſtants, and there is one? at leaſt) of every Nation who from that Nation takes his Name. Hence one is ſtiled the <hi>Aſſiſtance</hi> of <hi>France,</hi> a ſecond of <hi>Spain,</hi> a third of <hi>Italy,</hi> a fourth of <hi>England,</hi> a fifth of <hi>Auſtria;</hi> and ſoof all other Provinces and Kingdoms; every one of which, hath it aſſigned to him as his particular Office, to inform the <hi>Father General</hi> of all Accidents of State which occur in that Province or Kingdom, of which he is Aſſiſtant. And this Office he performs by the means of his Correſpondenſs, who reſide in the principal Cities of that Province or Kingdom; who with all induſtry firſt inform themſelves of the State, the Quality, Nature, Inclination, and intention of Princes, and by every Courrier advertiſe the Aſſiſtants of ſuch Accidents as are rewly diſco<g ref="char:EOLhyphen"/>vered And theſe again communicate all unto the <hi>Father General,</hi> who meeting in Council with all his Aſſiſtants, they make an Anatomy (as it were) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the whole World; confering the Intereſt and Deſigns of all Chriſtian Princes. Here they conſult of all freſh Intelligences received from their Correſpondents, and curiouſly Examining them and con<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing them together, at laſt they conclude to favour the Affairs of one Prince, and to depreſs the Deſigns of an other, as ſhall be moſt requiſite for their Intereſt and profit. And as thoſe Who are Standers by at ſome Game, more eaſily diſcern the Stroke than thoſe that gave it<hi>:</hi> ſo theſe <hi>Jeſuits</hi> having in one View the Intereſt of all Princes, know very well how to ob<g ref="char:EOLhyphen"/>ſerve the condition of place and Time, and how to apply the true means of advancing the Affairs of that Prince, from whom they know they ſhall draw moſt water to their owen M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ls.</p>
+            <p>However, this is a thing ſimply evil, that Religious men ſhould ſo much intermingle with matters of State in being their duly rather to attend the ſaving of their own and o<g ref="char:EOLhyphen"/>ther mens Souls, being for that end onely retired from the world; but by this means they are more intangled, than the very Secular perſons themſelves; and for many moſt perni<g ref="char:EOLhyphen"/>cious
+<pb n="7" facs="tcp:96803:4"/> Conſequences, we ſhall find this their Courſe moſt Wicked, and worthy of a ſpeedy and potent Remedy.</p>
+            <p>For Firſt, Theſe <hi>Jeſuits</hi> are Confeſſors to the greateſt part of the Nobility thorow<g ref="char:EOLhyphen"/>out all Roman Catholick States, Nay, and the better to attend them, they will not admit poor men, or poor Women to their Confeſſions; but rather aim to be Confeſſors to Prin<g ref="char:EOLhyphen"/>ces themſelves. So that by this Courſe it is eaſie for them to penetrate every Deſign, every Reſolution, and Inclination, as well of Princes, as of Subjects; of all which they ſuddenly Inform the <hi>Father General,</hi> or his Aſſiſtants in <hi>Rome.</hi> Now any man that hath the leaſt mea<g ref="char:EOLhyphen"/>ſure of underſtadning may eaſily perceive what a prejudice they bring to Princes by this device, when only their own Intereſt ſtirs them to that, to which (as to their laſt end) they direct all their Endeavour.</p>
+            <p>Secondly, whereas ſecrecy is a proper and unſeparable Accident, which ſo accompa<g ref="char:EOLhyphen"/>nieth the preſervation of a State, that without it, the Ruin of a State muſt needs follow: Therefore all Princes are moſt rigorous againſt thoſe who diſcover their Secrets, puniſh<g ref="char:EOLhyphen"/>ing them as the Enemies both of them and their Countrey. And as on the other ſide, to underſtand the deſigns of other Princes, makes a man more cautelons, and more apt to diſcern his own State; and therefore they uſe to ſpend no ſmall ſum of money, in the maintaining of Embaſſadors and Intelligencers; yet are oftentimes deceived too in their Relations. But the <hi>Jeſuits</hi> (that i) their <hi>Father General</hi> and his Aſſiſtants, as well by the Confeſſions and Conſultations which their Correſpondents to make, reſiding in all Chief Cities of the Chriſtian World, as by means of their other Adherents, of whom we ſhall diſcourſe hereafter, are moſt ſincerly and punctually advertiſed of all Determina<g ref="char:EOLhyphen"/>tions, that are concluded in the moſt ſecret Councils: So that they better know (a moſt) all the Power, Poſſeſſions, Expences and Deſigns of Princes, than the Princes themſelves; and that without any other expence than the Carriage of Letters; the which notwithſtanding in <hi>Rome</hi> alone (as the Maſters of the poſts relate to us) ariſeth to Sixty, Seve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, Eighty, and oft times to an hundred Crowns of Gold for one Courtier. So that they knowing ſo exa<g ref="char:EOLhyphen"/>ctly the Affairs of all Princes, do not only dimi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h their credit among themſelves, but wound their Reputation both with other Princes and with their own Subjects; depreſſing or advancing their State at their pleaſure; and that ſo much the eaſier, becauſe by the ſame way of Confeſſions and conſultations, they enter into the very S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets of the peoples ſouls; knowing who ſtands well affected to the Prince, and who reſts diſſatisfied: ſo that by theſe Relations which they have of State-Affairs, they may eaſily ſow Diſcord among Princes, occaſion a Thouſand Jealouſies, and by their inſight into the Subjects affection, raiſe Commotions and diviſion<hi>:</hi> bringing into contempt the very Perſon of the Prince. Whence we muſt conclude, that the Intereſt of State doth not comport, that any Prince ſhould Confeſs Himſelf; much leſs that he ſhould permit any of his Confidents, F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds, Secretaries, Councellors, or other his Chief Miniſters, to confeſs themſelves to perſons that attend ſo diligently to ſpy out matters of State, and to ſerve themſelves of this means, to inſinuate it to the Favour of Princes; ſince there is this day no want of Religious Perſons, men both for life and Learning, to be regarded equally with the Juſuits; whom in this kind they may employ; and who attend nothing but the govern<g ref="char:EOLhyphen"/>ment of Souls, and of their Monaſteries.</p>
+            <p>Thirdly, which is a greater diſcovery than yet we have made, or ſhall make hereaf<g ref="char:EOLhyphen"/>ter, ye are to know that there are found amongſt them four ſorts of <hi>Jeſuits:</hi> The firſt conſiſts of certain Secular People, of both Sexes, adjoyned to their Society, who live
+<pb n="8" facs="tcp:96803:5"/> under a certain obedience, which themſelves call A <hi>Blind Obedience;</hi> ſquaring all their particular actions by the <hi>Jeſuits</hi> Counſel, reſigning themſelves moſt readily in all things to be commanded by them: and theſe for the moſt part are Gentlemen or Gentlewo<g ref="char:EOLhyphen"/>men, the welthieſt widdows, or the richeſt Citizens, or Merchants; from all whom, as from Fructiferous plants, the <hi>Jeſuits</hi> gather every year a copious Harveſt of Gold and Silver.</p>
+            <p>Of this kind are thoſe women, who (in <hi>Italy)</hi> call themſelves <hi>Chettine,</hi> who are indu<g ref="char:EOLhyphen"/>ced by the Jeſuits, to forſake the world, which in the mean time they get their pearls, apparel, ornaments, furniture of Huſes; and finally very great poſſeſſions.</p>
+            <p>The ſecond ſort is, of men alone: but thoſe as well Prieſts as Lay men, yet ſuch as live a Secular life, and ſuch as oft-times by the mediation of the Jeſuits, obtain penſions, Church-livings, Ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys, and other Revenues<hi>:</hi> but theſe make a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow to receive a habit of the Society at the pleaſure of the <hi>Father General;</hi> and therefore they are called <hi>Je<g ref="char:EOLhyphen"/>ſuits in Voto:</hi> and by the labours of theſe men, the Jeſuits wonderfully avail themſelves in the Fabrick of their Monarchy. For they maintain in all Kingdoms and Provinces, in all Courts of Princes, and pallaces of great Men, ſuch of theſe as ſhall ſerve them in a kind, which <hi>I</hi> ſhall declare unto you in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſeventh point of this diſcourſe.</p>
+            <p>The third ſort of Jeſuits are thoſe who remain in Monaſteries; &amp; theſe are either Preiſts, Clerks, or Converts; who becauſe at the firſt they came not from that profeſſion, may at the pleaſure of the <hi>Father General</hi> be deprived of it, although of themſelves the have no power to leav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it. And theſe being ſuch as have no Office of importance, for the moſt part do ſimply obey in any thing that their Superiors command.</p>
+            <p>The fourth ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is of politick <hi>Jeſuits,</hi> thorow whoſe hands paſſeth the whole Govern<g ref="char:EOLhyphen"/>ment of Religion; and theſe are they, who being tempted by the Devil, with the ſame temptation that Chriſt had in the Goſpel, <hi>Hae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omnia tibi dabo;</hi> have accepted the Bar<g ref="char:EOLhyphen"/>gin: and therefore labour to reduce their Society to an abſolute Monarchy, and to place the head thereof at <hi>Rome,</hi> where all the principal affairs of the Chriſtian world meet to<g ref="char:EOLhyphen"/>gether. There reſides the Head of theſe Polititians (which is their General) with a great number of others of the ſame pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion; who being firſt informed by their ſpies, of all ſuch weighty &amp; important matters as are to be treated in the Court of <hi>Rome,</hi> having firſt among themſelves agreed of ſuch ends, as for their own intereſt they deſire; each one takes hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Office to goe every day their circuit thorow the Courts of Cardinals, Embaſ<g ref="char:EOLhyphen"/>ſadors, and Prel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes; with whom (cunningly) they inſinuate their diſcourſe of ſuch affairs as is then in hand, or ſhortly to be handled; repreſenting it to them after what manner they pleaſe, &amp; in the ſame ſhape; that by reflection from their own ends, them<g ref="char:EOLhyphen"/>ſelves do apprehend it: oft-times changing the aſpect of the buſineſs, and ſhewing black for white. And becauſe the firſt interpretations, made eſpecially by Religious men, are wont to make a notable impreſſion in the minds of him that hears them; hence it pro<g ref="char:EOLhyphen"/>ceeds, that many time, moſt important Affairs treated by the Embaſſadors of Princes, and other grave perſons of the Roman Court, have not attained that ſucceſs which Princes expected; becauſe the Jeſuits had poſſeſſed their minds with their oblique rela<g ref="char:EOLhyphen"/>tions; effecting that thoſe Embaſſadors, or other Agents, ſhould have but ſmall Cre<g ref="char:EOLhyphen"/>dit with them.</p>
+            <p>And the ſame Artifice that they uſe with the Prelates of <hi>Rome,</hi> they uſe alſo with other Princes, either by themſelves, or by the means of their penſionary Jeſuits out of <hi>Rome;</hi>
+               <pb n="9" facs="tcp:96803:5"/> ſo that we may conclude, that the greater part of Affaires throughout the Chriſtian World, doth paſs through the Jeſuits Hands; and thoſe only take effect, againſt which they make no oppoſition. Moſt ſtupendious andimpenetrable is the Art that in this kind they uſe; which though it cannot by me be perfectly deſcribed, yet may it lively be de<g ref="char:EOLhyphen"/>ſcryed by any Prince, who will but vouchſafe to read this little touch that I give of them; becauſe he will preſently reflect upon what things have paſt: and as he ſhall under<g ref="char:EOLhyphen"/>ſtand the truth of my Diſcourſe, calling to mind with what Art things have been hand<g ref="char:EOLhyphen"/>led, he will diſcover more of that, which will ſeem ſtrange and marvellous unto him, For not being content with this their cloſe Artifice by which they thruſt themſelves into the Affairs of the World, with perſwaſion that it is the only means to archieve that Mo<g ref="char:EOLhyphen"/>narchical Jurisdiction at which they aim; they made ſupplication to Pope <hi>Gregory</hi> the Thirteenth. That for the time to come he would publickly favour their project: and re<g ref="char:EOLhyphen"/>preſenting it to him under the publick Good of the Church, they required that he would command all his Legates and Apoſtolical N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncio's, to take to them every one for his companion and confident, ſome Jeſuit, by whoſe counſel he ſhould be governed in all his Actions.</p>
+            <p>Fourthly, By theſe cunning carriages, and their inſight into State-affairs, the chief Je<g ref="char:EOLhyphen"/>ſuits have gotten the love of many Princes, as well Temporal as Spiritual; which Princes they do perſwade, that they have ſaid and done many things for their good; and there<g ref="char:EOLhyphen"/>upon have followed two weighty inconveniences: Firſt, That abuſing the friendſhip and goodneſs of thoſe Princes, they have not cared to diſpleaſe many private, but otherwiſe rich and Noble Families; uſurping the wealth of Widows, and leaving their Families in extream miſery; alluring to their Religion, and to frequent their Schools, the moſt No<g ref="char:EOLhyphen"/>ble Spirits; who if haply they ſhall fall out to be unable and unfit for their purpoſe, un<g ref="char:EOLhyphen"/>der ſome honeſt pretext, they licenſe from their Society; but withal lay hold of their Eſtates, of which their Society; will needs be inveſted Heirs. In the mean time abſo<g ref="char:EOLhyphen"/>lutely excluding the poor from their Schools, directly againſt the Orders of the fore<g ref="char:EOLhyphen"/>named Father <hi>Ignatius,</hi> and the intention of thoſe their Patrons, who gave them their poſſeſſions; not that they ſhould ſerve their own intereſt, but the <hi>Chriſtian Common-Wealth.</hi>
+            </p>
+            <p>The ſecond inconvenience is, that theſe Jeſuits cunningly make the world know the friendſhip and inwardneſs they retain with Princes; ſetting it forth a little more than in<g ref="char:EOLhyphen"/>deed it is; to the end that they may gain the love of their Miniſters; and ſo procure, that all men ſhall recur to them for Favours. Thus they publickly brag, that they can make Cardinals, Nuncio's, Lieutenants, Governours, and other Officers: Nay ſome of them have plainly affirmed, that their <hi>General</hi> could do more than the <hi>Pope</hi> himſelf: and o<g ref="char:EOLhyphen"/>thers have added, that it is better to be of that Order which makes Cardinals than to be a Cardinal. And th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe things they divulge ſo publickly, that there is not any man who familiarly converſeth with them, to whom they relate not theſe or ſuch like things.</p>
+            <p>Fifthly, having laid the ground-work of this their practice in State, they pretend a power to raiſe or ruin whomſoever they pleaſe; and indeed making uſe of Religion on<g ref="char:EOLhyphen"/>ly for a Cloak, whereby they may gain credit, they many times attain their ends. But when they propound any man unto the Prince for preferment, they never make choice of him who is moſt fit and deſerving; but rather oppoſe to ſuch an one, when they know he is not partial on their ſide; &amp; alwayes advance ſuch perſons as make for their in<g ref="char:EOLhyphen"/>tereſt; without any regard whether he be well-affected to the Prince, whether meritori<g ref="char:EOLhyphen"/>ousor
+<pb n="10" facs="tcp:96803:6"/> fit to undergo that Office to which he is nominated; whence there oft ariſeth di<g ref="char:EOLhyphen"/>ſturbance to the Prince, complaints and tumults among the people.</p>
+            <p>Sixthly, as the maſter of a Galley, when he perceives a good gale fair for his Voyage, but with once whiſtling makes all the Galley ſlaves fall to their Oares, and ſtretch them before the Veſſel: ſo when in the dyers and aſſemblies (which theſe <hi>Fathers</hi> continually make by their <hi>General</hi> and his <hi>Aſſiſtance</hi> in <hi>Rome)</hi> they conclude it fit for their turn, that ſome one perſon ſhould be promoted to dignity; the <hi>Father General</hi> ſignifies ſo much to all thoſe that reſide elſewhere; and all thoſe with one conſent at an inſtant joyn all their forces to make him attain that honour which they intend him; and he ſhould be very ungrateful, if afterwards, in all Occurences, he ſhould not ſerve the <hi>Jeſuits</hi> with the like zeal that they preferred him. And becauſe ſuch a Man nay many ſuch Men (for many dependants in this Kind the <hi>Jeſuits</hi> have) hold themſelves more obliged to the <hi>Jeſuits</hi> than to their Prince, of whom they have received their Honour and Greatneſs; therefore they ſerve the <hi>Jeſuits</hi> with a greater Affection than the Prince himſelf. Thus they delude their Princes, who imagining they have got a truſty Servant, have only made way for a ſpy of the Jeſuits; of whom they often times ſerve themſelves to the damage of that Prince, who advanced him. I could with manifeſt examples confirm this my diſcourſe, if daily experience and common ſame were not a ſufficient confirmation to it. But not to make my ſelf over tedious, I will paſs to ſome other things, concluding that this happily is the cauſe why the Jeſuits are wont to call their Religion, <hi>A Grand Monarchy;</hi> as if they governed all Prin<g ref="char:EOLhyphen"/>ces &amp; their Miniſters at their pleaſure. And it is not long ſince that one of the chief of them, being publickly to treat with an illuſtrious Prince, in the Name of the ſociety, he began with theſe words full of A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rogancy, and grounded upon a conceit of their Monarchy; <hi>Our ſociety hath always maintained good intelligence with your Grace, &amp;c.</hi>
+            </p>
+            <p>Seventhly, theſe Fathers take great pains, to let the world know, that all thoſe who are any way in eſtimation with their Prince, have been their favourites, and born up by their hands; ſo that by this means they are more Patrons of the Subjects affections than the Prince himſelf. And this is a notable Prejudice unto the Prince; as well becauſe no <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon of State doth comport, that Religious perſons, ſo ambitious and politick, ſhould be ſo far Patrons of the will of the Miniſters, that whenſoever they pleaſe, they can cauſe Treaſon and Deſtruction. As alſo that by this means, that is by the mediation of the Mi<g ref="char:EOLhyphen"/>niſters their Adherents, they induce into the Princes Service, either for Counſellors or Se<g ref="char:EOLhyphen"/>cretaries, ſome of thoſe <hi>Jeſuits in Voto,</hi> of whom I diſcourſed before. And theſe again pro<g ref="char:EOLhyphen"/>cure the Prince to entertain ſome <hi>Jeſuit</hi> for his Conſeſſor or Preacher. And thus all theſe together, do ſerve as Intelligencers to the <hi>Father General;</hi> to whom they render an exact account of all that paſſeth in the moſt ſecret Councils. Whence it proceeds, that many times we ſee Deſigns prevented, and ſecrets of the greateſt importance diſcovered; yet no man can ſearch out the true Author: but oft times thoſe are moſt ſuſpected, who are leaſt in Fault.</p>
+            <p>
+               <hi>Eighthly,</hi> As by nature Subjects are wont to follow the Inclinations of their Prince, ſo all thoſe as give obedience to their <hi>Father-General,</hi> perceiving that he chiefly Attends to matter of State, and by that means endeavours to improve and inrich their Society, they alſo apply themſelves that way; and making uſe of their Kindred &amp; Friends; ſtrive by force to pene<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te the Hearts of Princes, and their moſt ſecret Deſigns; only to give noti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them either to the Aſſiſtance at <hi>Rome,</hi> or to the <hi>Father-General;</hi> by this means to procure them their Favour, &amp; a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain ſome dignity; which by any other means they could never have ob<g ref="char:EOLunhyphen"/>tained.
+<pb facs="tcp:96803:6"/> For amongſt them none are preferred to any Office of importance, but only thoſe whom they know prone to Advance their Society to that height of Greatneſs to which they Aſpire; and conſequently, none but ſuch as are known to be ſufficient in the Manag<g ref="char:EOLhyphen"/>ing of State-Affairs.</p>
+            <p>
+               <hi>Ninethly,</hi> As from divers Flowers, and Herbs, by means of a Limbick, a man may draw ſuch as Oyntment, as is fit to Heal a mortal Wound<hi>:</hi> And as from ſeveral bloſſoms Bees ſuck honey, ſo theſe Jeſuits, from the Infallible Relation which they have of all Princes Affairs, and of all accidents that do happen in every State, by the Politick power of their own diſcourſe, they Extract from them their own Commodity, which is the only Remedy to cure that their Abominable wound of Covetouſneſs and Ambition, and they compoſe a certain art of their own Profit, by which they obtain their ownends, as well from the good of ſome as hurt of others, but more often from the latter, than the former.</p>
+            <p>Thus they uſually ſhackle with their Fetters, that Prince, into whoſe Secrets they have Crept<hi>:</hi> propounding to him that they have the only &amp; moſt Excellent means to make him the Maſter of his Deſires; but when by this means they have drawn their own pur<g ref="char:EOLhyphen"/>poſes from him, conſidering that the too ſwelling Greatneſs of that Prince may one day prove prejudicial unto them; as Lawyers do their Cauſes, they prolong as much as they can, the ſucceſs of that affair; and afterwards by politick plottings and various Juglings, they utterly Ruin thoſe deſigns to which they had given a beginning.</p>
+            <p>The League of <hi>France,</hi> Treated and Concluded by them, not long after they aban<g ref="char:EOLhyphen"/>doned, when they ſaw things proſper on the Kings ſide: And <hi>England,</hi> ſo often promiſed by them to the <hi>Spaniards,</hi> yet in ſuch manner performed<hi>:</hi> ſo confirms this my diſcourſe, that there needs no farther Proof.</p>
+            <p>
+               <hi>Tenthly,</hi> From what hath been already ſaid, It neceſſarily follows, That the Jeſuits have no good intentions towards any Prince whatever, either Temporal or Spiritual; but only <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve them ſo far as they may ſerve their own turnes.</p>
+            <p>Nay, I followeth yet farther, That no Prince, much leſs any under Prelates, can make the like uſe of then; becauſe they ſhew themſelves at the very ſame time equally affected to all; making themſelves <hi>Engliſh</hi> with <hi>Engliſh</hi> Men, <hi>French</hi> with <hi>French, Spaniards</hi> with <hi>Spaniards;</hi> and ſo with all other Nations and Countries, according as their Occaſions re<g ref="char:EOLhyphen"/>quire; from which they do intend to Extract their profit. They have no regard to the prejudice of one, more than of another; and therefore, thoſe Enterprizes, in which they have interineddled, have ſeldom times ſucceeded well; becauſe they have no purpoſe to ſerve, farther than their own Intereſts dictates to them. And in this, the Artifice which they uſe, is moſt Notorious, Some of them faining themſelves to be partial to the Crown of <hi>France,</hi> others to <hi>Spain,</hi> others to the <hi>Emperour;</hi> and ſome to other <hi>Princes,</hi> of whom they de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re to be moſt favoured: And if any of theſe <hi>Princes</hi> pleaſe to make uſe of ſome <hi>Je<g ref="char:EOLhyphen"/>ſuite,</hi> whom he holds for his Confident Friend, he immediatly writes to the <hi>Father General</hi> of the affair, which he hath to treat on; and expects his Anſwer, together with Order what he ſhall do; and conſormable to that Commiſſion he Rules himſelf: Never re<g ref="char:EOLhyphen"/>garding, whether that Order be Conformable to the Intention of the <hi>Prince,</hi> who com<g ref="char:EOLhyphen"/>mits the Care of that Affair to him. But if the <hi>Society</hi> be ſerved, he takes little care what ſervice he doth for the <hi>Prince.</hi>
+            </p>
+            <p>Beſides this becauſe the Jeſuites underſtand the Intereſt of all <hi>Princes,</hi> and are moſt
+<pb n="12" facs="tcp:96803:7"/> knowing in all things daily treated upon in ſecret Councils; thoſe who pretend to hold with <hi>France,</hi> propound to the King, and his principal Miniſters, certain Conditions of State, and important Conſiderations, which are ſent to them from their <hi>Politick Fathers</hi> at <hi>Rome:</hi> And thoſe that pretend to hold with the Crown of <hi>Spain,</hi> do juſt the ſame with them &amp; ſo with the reſt. From which Courſe and Cunning of theirs, there ari<g ref="char:EOLhyphen"/>ſeth ſuch a Diffidence in the Hearts of <hi>Chriſtian Princes,</hi> that none will ſcarce give Credit to each other; which is a main prejudice to the publick Peace, and univerſal Welfare of <hi>Chriſtendom.</hi> The which Diffidence of theirs, is that which makes it ſo difficult a thing, to conclude a League againſt a Common Enemy, and precious Peace to be of ſo little Value amongſt <hi>Princes.</hi>
+            </p>
+            <p>Further more; With theſe artificious Devices, they have ſo opened the Eyes of the World and ſharpened mens Wits in matters of State; that to this day, to the notable prejudice of the <hi>Holy Church,</hi> they attend to nothing elſe, but matters of Policy; and poize all their Actions in that falſe Ballance.</p>
+            <p>But to the end that theſe <hi>Jeſuitical</hi> Stratagems may yet appear more plainly, I cannot here conceal the means, by which they inveig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Princes</hi> to be of their party. There are ſome years now paſt, ſince one of theſe <hi>Fathers,</hi> called <hi>Father Parſons,</hi> the Aſſiſtant of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> wrote a Book againſt the Succeſſion of the <hi>King</hi> of <hi>Scotland</hi> to the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and another <hi>Father,</hi> called <hi>Crittonius,</hi> with ſome others of the ſame Order; in a Book, which they wrote, Defended the Title of the <hi>King</hi> of <hi>Scotland;</hi> oppoſing the Opi<g ref="char:EOLhyphen"/>nion of <hi>Father Parſons;</hi> and ſeigning (under a Specious Pretence) to be at Diſcord a<g ref="char:EOLhyphen"/>mongſt themſelves<hi>:</hi> although all this was (indeed) cunningly done, and by the ſpecial Command of their <hi>Father General;</hi> only for this purpoſe, that whoſoever ſhould ſucceed in the <hi>Kingdom</hi> of <hi>England,</hi> they might have an excellent Argument, to work in him a great and good Opinion of their <hi>Society;</hi> and ſo to extract their own Ends from him.</p>
+            <p>A fair Example to ſhew us, that <hi>Princes</hi> are the Objects of all <hi>Jeſuitical</hi> Actions and Determinations; and (by conſequence) to make good their own Saying, <hi>That their So<g ref="char:EOLhyphen"/>ciety is a Grand Monarchy.</hi>
+            </p>
+            <p>Again, That the Truth of this may appear, That the <hi>Jeſuits</hi> have no regard, whe<g ref="char:EOLhyphen"/>ther they pleaſe or diſpleaſe any <hi>Prince,</hi> where their own Intereſt is moſt nearly con<g ref="char:EOLhyphen"/>cerned: Although experience of infinite Things paſt, makes it as clear as the <hi>Sun</hi> at noon-day; yet the Particulars, which I ſhall here ſubjoyn, will render it every way moſt evident.</p>
+            <p>There is no perſon in the world, whom they are more bound to ſerve and obey, than the Biſhop of <hi>Rome;</hi> not only for many other reaſons, but eſpecially, becauſe they make a particular Vow to obey him: Yet when <hi>Pius Quintus</hi> went about to reform ſome of theſe <hi>Fathers,</hi> reducing them unto the Performance of their Duty in the Chair, they would not obey him; eſteeming that a notorious Prejudice to their <hi>Society.</hi> And thoſe few, who yielded themſelves to the <hi>Popes</hi> Pleaſure, accepting that Profeſs;ion, were al<g ref="char:EOLhyphen"/>ways afterwards mocked and jeered; and called by their Fellows, <hi>Quintini:</hi> Nor could ever any of them get the leaſt Preferment amongſt them.</p>
+            <p>In the ſame kind they oppoſed Glorious Saint <hi>Charles,</hi> Arch Biſhop of <hi>Millain,</hi> who as Legate, a Latere to his <hi>Holineſs,</hi> endeavoured to reduce them to a Religious Diſci<g ref="char:EOLhyphen"/>pline.</p>
+            <p>But what ſhould I ſpeak of theſe, ſince they obey not the Sicred Canons themſelves; but againſt their Decrees make Merchandize of Pearls, Rubies, and Diamonds, the which
+<pb n="13" facs="tcp:96803:7"/> they bring from the <hi>Indies:</hi> And there is an Opinion, that the greateſt pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Precious Stones, which are ſold in <hi>Venice</hi> belong to the Jeſuits, the ground of which Opinion hath been received from their own Brokers, whom they have employed in the Sale of them.</p>
+            <p>But that they are no faithful Servants to the Biſhop of <hi>Rome,</hi> thoſe Fathers well know; who for default of their Service, were called by Proceſs to <hi>Rome.</hi> I need not name them, nor will I wade farther into this matter, as well that I may not be compelled to ſpeak of ſome Prince, whom my Diſcourſe may not very well pleaſe (my ſelf deſigning to do Service to all, and to offend none) as becauſe I intend not here to make ſo large an In<g ref="char:EOLhyphen"/>vective againſt the <hi>Jeſuits</hi> as they deſerve; but only to give a ſhort and plain Draught of their Courſes and Cuſtoms.</p>
+            <p>For, as many times we behold one afflicted with ſome grievous Infirmity, ſending forth ſuch lamentable Cries as reach Heaven it ſelf; and every one perceived that the man is terribly indiſpoſed, but no man is able to diſcern the original cauſe of his Evil; ſo the whole World complains of the <hi>Jeſuits,</hi> ſome for being perſecured, others for being tortured; and ſome for being treacherouſly ſerved by them<hi>:</hi> but the Miſchief ſtill re<g ref="char:EOLhyphen"/>mains amongſt us, nor is the Cauſe thereof eaſily diſcovered; which is nothing elſe but an immenſe deſire which they have to increaſe their own Power; in reſpect whereof, they eſteem it nothing to vilifie or murther any man, or to deceive Princes, and to oppreſs the Poor; to extort from Widows their Eſtates, and wrong the Fatherleſs: What ſhall I ſay, to ruinate moſt noble Kingdoms; nay, many times by their intermeddling with all important Affairs in matters of State, it cauſes Jealouſies and Deſpite amongſt Chriſtian Princes.</p>
+            <p>Now as there would follow a great inconvenience, if that part which was laſt formed by Nature, as an inſtrument to ſerve the reſt that were more Noble, ſhould attract unto it ſelf, all the pureſt Blood and Vital Spirits, becauſe this I ſay, were the way utterly to diſſolve the whole; ſo it is as inconvenient, that the Religion of the <hi>Jeſuits</hi> planted into the Body of the Holy Church, as Inſtruments for the Converſion of Hereticks, and the perſwading of Sinners to Repentance, ſhould bring within their own Power, all the moſt weighty and important Affairs of Princes and Prelates, and extracting from them the very Life and Spirit of their Intereſt, ſhould convert them unto their own purpoſes<hi>:</hi> Becauſe from hence, both private and publick Peace is diſturbed, many depreſſed, which were worthy to be exalted; and many exalted, which deſerve to be depreſſed; with a thou<g ref="char:EOLhyphen"/>ſand inconveniences which would follow upon it.</p>
+            <p>I could produce many reaſons, taken from experience it ſelf, to demonſtrate what a ingorgeous ambition the <hi>Jeſuits</hi> have to increaſe their greatneſs; but it ſhall here ſuffice, to make it known from Father <hi>Parſons</hi> own words, recorded in a book of his compoſed in the <hi>Engliſh</hi> Tongue, &amp; Intituled; <hi>the reformation of England;</hi> where haveing firſt blamed Cardinal <hi>Pool,</hi> and haveing alſo obſerved many wants and Imperfections in the Council of <hi>Trent,</hi> at length he concluded, That <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> England</hi> ſhould return to the <hi>Roman Catholick Faith,</hi> he would reduce it to the Form and State of the Primitive Church; making common all Eccleſiaſtical Goods, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Charge of them unto ſeven <hi>Sagii</hi> or <hi>Wiſe-men,</hi> which ſhould be <hi>Jeſuit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> and they ſhould make Diſtribution of Goods at their pleaſure. Nor is it his will, nay, he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, under a grievous Penalty, that any Religious perſon, of what Order ſoever, ſhould return into <hi>England</hi> without their Licenſe; reſolving, that none ſhould enter there, but thoſe who ſhould be Maintained by Almrs.</p>
+            <p>But as it oft falls out, that Self-Love blinds the Wiſeſt Man, that he becomes the great<g ref="char:EOLhyphen"/>teſt
+<pb n="14" facs="tcp:96803:8"/> Fool, it is moſt Ridiculous which the ſame Father ſubjoyns in that place: <hi>When Eng<g ref="char:EOLhyphen"/>land</hi> (ſayes he) <hi>ſhall once be reduced to the true Faith, it will not be Convenient, that the Pope (at the leaſt for five years ſpace) ſhould look to receive any fruit from the Eccleſiaſtical benefices of this Kingdom, but remit all into the Hands of thoſe Seven wiſe Men, who ſhould diſpenſe them as they conceived beſt for the good of the Church.</hi>
+            </p>
+            <p>This being his deſigne, that the firſt <hi>Five Years</hi> being paſt, by ſome other Invention (of which they are very f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l) they would re-confirm the ſame Priviledge for Five Years more, and ſoonwards, till they had utterly excluded his <hi>Holineſs</hi> from <hi>England:</hi> Now who ſeeth not here) as in a Table) the Covetouſneſs and the Ambition of the Jeſuits, naturally deſcrib'd; together with the hearty deſire they have to make themſelves Monarchs: and who ſeeth not with what cunning they endeavour to promote their own deſignes; procuring it ei<g ref="char:EOLhyphen"/>ther from the Good of ſome, or I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of others. What ſhould I ſay more of them: In the time of <hi>Gregory</hi> the Thirteenth, Did they not make it their Requeſt, that they might be In<g ref="char:EOLhyphen"/>veſted of all the Pariſh Churches in <hi>Rome?</hi> That they might there lay a Foundation of their Monarchy? And that which they could not get in <hi>Rome,</hi> Have they not finally obtained in <hi>England?</hi> Where they not long ſince have choſen an Arch-prieſt, one of the Jeſuits <hi>in Voto,</hi> who inſtead of protecting the Clergy, like a Ravening Wolf, perſecutes all ſuch Prieſts as are not depending upon the Jeſuit; driving them to terms of deſperation and depriving them (under a great Penalty) of mutual Communication; ſo that by this time, almoſt all the <hi>Engliſh Roman</hi> Clergy are Jeſuits <hi>in Voto,</hi> Nor do they accept any into their Colledges, who hath not paſs'd his word to become a Jeſuit; ſo that when that Kingdom ſhall return to the Antient Faith, <hi>England</hi> will be like to give a beginning to an abſolute Jeſuitical Monarchy; becauſe all the Eccleſiaſtical Revenues, all the Abbeys, B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, Biſhopricks, Arch Prieſt<g ref="char:EOLhyphen"/>ſhips and other Dignities ſhall be conferred only by the J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>I here let paſs many things, as the pretenſions which they make concerning other mens Eſtates, how jealous they are of their Welfare, and deſirous of their Proſperity: as the Favour which they endeavour to gain from Princes, by making them believe that their Subjects are moſt devout to their Religion, and conſequently, that the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are able to make them well-affected to the perſon of their Prince. Such evident things as the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, I leave to every one to obſerve, and with Four brief Conſideration, I will conclude this preſent Diſcourſe.</p>
+            <p>
+               <hi>Firſt,</hi> That Men of ſuch High Spirits, and ſuch reaching Deſigns, are always lovers of Novelty; ever ſearching for it, and begetting it; becauſe without ſome new-raiſed Mo<g ref="char:EOLhyphen"/>tions, it is impoſſible they ſhould attain their Ends: And the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore the Jeſuits cannot be helpful to any Prince that either loves Peace, or the Conſervation of his own State; ſince they are more likely to be the Cauſe of much Trouble and Commotion: Nay, happily to deprive him of his whole State, if he favour not their Party; or be not par<g ref="char:EOLhyphen"/>tially governed by their Counſel.</p>
+            <p>
+               <hi>Secondly,</hi> If theſe, who have not Temporal Juriſdiction, are able to cauſe ſuch great and prodigious Diſturbances in the World, What think ye would they do, if one of them ſhould by chance be created <hi>Pope?</hi> Firſt he would ſtuff the Conſiſtory with Jeſuits, and by that means perpetua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the <hi>Pop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dom</hi> to them: and then directing themſelves by their inſight and intereſt of State, and having the Arm and Power of the <hi>Pope,</hi> they would be enabled to put in danger the State of many Princes; eſpecially of thoſe who are Neigh<g ref="char:EOLhyphen"/>bours and Confiners.</p>
+            <p>
+               <hi>Thirdly,</hi> It would be the Deſign of that <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe,</hi> (if he could by any means) to inveſt
+<pb n="15" facs="tcp:96803:8"/> their Order of ſome City, or Temporal Juriſdiction; with the which they would af<g ref="char:EOLhyphen"/>terwards make way for a thouſand other Deſigns, which they could never Effect without the Damage of other Princes.</p>
+            <p>
+               <hi>Fourthly,</hi> When the Conſiſtory ſhould be entirely Jeſuited, the whole Patrimony of Chriſt would be in their Hands: And as one that has the Dropſie, the more he drinks, the more he thirſts; ſo their Ambirion growing with their Greatneſs, would occaſion a vaſt Inundation of Trouble in the World. Now, becauſe there is nothing more ſubject unto Change than matters of State; <hi>Theſe Fathers,</hi> with all their Power, and crafty Cun<g ref="char:EOLhyphen"/>ning, would endeavour to alter the whole Courſe of Government; that they might final<g ref="char:EOLhyphen"/>ly introduce the Form and Project of their own Government; and by that means abſo<g ref="char:EOLhyphen"/>lutely immonarchize themſelves. They have had it long in their Heads, to gain into their Society the Son of ſome Prince, who ſhould abſolutely inveſt the Company of his State, and this they had long ſince attained, if ſome others, wiſely ſpying out their Deſign, had not prevented them: but had they once obtained that, they would, without any d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffi<g ref="char:EOLhyphen"/>culty, have made themſelves Patrons of the State-Eccleſiaſtical: And as they are very invective and ſubtil, they would afterwards have found out a thouſand ways how to en<g ref="char:EOLhyphen"/>large it. Thus they would have wanted no means that might make them Maſters of their Projects: And if nothing elſe would have done it, the Jealouſies which they would have raiſed in the minds of their Confining Princes, would have done them no ſmall Service.</p>
+            <p>It is therefore moſt neceſſary, that for the Preſervation of publick Peace, and for the Maintenance of States, for the encreaſe of True Religion, and for the Common Good of the whole World, that they be utterly rooted out of all Chriſtendom; whoſe deſires are ſo extreamly inordinate, loſt haply that follow which was anciently effected by the <hi>Davidii,</hi> (whoſe Courſe, the Jeſuits ſeem to imitate) who we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not deſtroyed till the time of <hi>Claudius</hi> the Emperour.</p>
+            <p>And when I ſhall be commanded to write my Opinion, concerning an opportune Re<g ref="char:EOLhyphen"/>medy how to rectifie <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Fathers,</hi> and to convince them of their Erroneous Opinions; deſiring rather that they may be good Paſtors of Souls which are the Treaſury of Chriſt, and not of the World, or of the Profit of the World, (which is nothing elſe but vile Dung) I am ready to perform it with Charity, and with all that Ability which it ſhall pleaſe God to beſtow upon me.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
